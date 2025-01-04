@@ -1,4 +1,4 @@
-Hi ![](![image]([https://tenor.com/ru/view/sushichaeng-chips-eating-nom-crisps-gif-22496360](https://tenor.com/ru/view/sushichaeng-chips-eating-nom-crisps-gif-22496360))My name is Danila
+Hi ![](https://media.tenor.com/4kV6H1xP2VgAAAAC/sushichaeng-chips.gif) My name is Danila
 ==============================================================================================================================
 
 Frontend Developer
@@ -16,7 +16,21 @@ Frontend Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/gertish" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://www.github.com/gertish" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://vk.com/your_vk_profile" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk.svg" width="32" height="32" alt="VK" /> 
+  </a> 
+  <a href="https://t.me/your_tg_profile" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram" /> 
+  </a>
+</p>
 
 ### Badges
 
@@ -27,3 +41,4 @@ Frontend Developer
 <a href="http://www.github.com/gertish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gertish&stroke=ffffff&background=171717&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/gertish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gertish&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
