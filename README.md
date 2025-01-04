@@ -1,7 +1,7 @@
-Hi ![image](https://media.tenor.com/4kV6H1xP2VgAAAAC/sushichaeng-chips.gif) My name is Danila
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" alt=""> My name is Danila 
 ==============================================================================================================================
 
-Frontend Developer
+Frontend Developer <img src="https://i.postimg.cc/0QfPNcnD/sushichaeng-chips.gif" width="70" height="50" alt="Example GIF">
 ------------------
 
 * 🌍  I'm based in Kemerovo
@@ -24,7 +24,7 @@ Frontend Developer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
     </picture> 
   </a> 
-  <a href="https://vk.com/your_vk_profile" target="_blank" rel="noreferrer"> 
+  <a href="https://vk.com/danila.moiseev" target="_blank" rel="noreferrer"> 
     <img src="https://i.postimg.cc/wjTJxGkc/5968835.png" width="32" height="32" alt="VK" /> 
   </a> 
   <a href="https://t.me/your_tg_profile" target="_blank" rel="noreferrer"> 
