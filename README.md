@@ -1,4 +1,4 @@
-Hi ![](https://media.tenor.com/4kV6H1xP2VgAAAAC/sushichaeng-chips.gif) My name is Danila
+Hi ![image](https://media.tenor.com/4kV6H1xP2VgAAAAC/sushichaeng-chips.gif) My name is Danila
 ==============================================================================================================================
 
 Frontend Developer
@@ -25,10 +25,12 @@ Frontend Developer
     </picture> 
   </a> 
   <a href="https://vk.com/your_vk_profile" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vk.svg" width="32" height="32" alt="VK" /> 
+    <img src="![image](https://github.com/user-attachments/assets/83198020-8474-45db-b012-54e2566e4f5e)
+" width="32" height="32" alt="VK" /> 
   </a> 
   <a href="https://t.me/your_tg_profile" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram" /> 
+    <img src="![image](https://github.com/user-attachments/assets/9d7e4559-089e-4d3d-8200-eefc7c2d2940)
+" width="32" height="32" alt="Telegram" /> 
   </a>
 </p>
 
