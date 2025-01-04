@@ -27,7 +27,7 @@ Frontend Developer <img src="https://i.postimg.cc/0QfPNcnD/sushichaeng-chips.gif
   <a href="https://vk.com/danila.moiseev" target="_blank" rel="noreferrer"> 
     <img src="https://i.postimg.cc/wjTJxGkc/5968835.png" width="32" height="32" alt="VK" /> 
   </a> 
-  <a href="https://t.me/your_tg_profile" target="_blank" rel="noreferrer"> 
+  <a href="https://t.me/danil_moiseev" target="_blank" rel="noreferrer"> 
     <img src="https://i.postimg.cc/SxvXSNRk/4401433.png" width="32" height="32" alt="Telegram" /> 
   </a>
 </p>
